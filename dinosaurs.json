@@ -1,0 +1,12 @@
+{
+  "306872598057189378": {
+    "current": {
+      "name": "T-Rex",
+      "gender": true,
+      "growth": "100%",
+      "thirst": "100%",
+      "hunger": "100%"
+    },
+    "stored": []
+  }
+}

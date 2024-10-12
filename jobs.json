@@ -1,0 +1,275 @@
+[
+    {
+        "job": "T-Rex Tailor",
+        "description": "Using those tiny arms to stitch some prehistoric fashion!",
+        "minPoints": 1000,
+        "maxPoints": 1500,
+        "emoji": "🦖🧵"
+    },
+    {
+        "job": "Bronto Barber",
+        "description": "Grooming those long necks with precision and style.",
+        "minPoints": 1200,
+        "maxPoints": 1800,
+        "emoji": "🦕✂️"
+    },
+    {
+        "job": "Dino DJ",
+        "description": "Spinning some Jurassic beats at the local dino rave!",
+        "minPoints": 1500,
+        "maxPoints": 2000,
+        "emoji": "🎧🎶"
+    },
+    {
+        "job": "Ptero Pizza Delivery",
+        "description": "Flying through the skies to deliver hot, fresh pizzas!",
+        "minPoints": 1300,
+        "maxPoints": 1800,
+        "emoji": "🦅🍕"
+    },
+    {
+        "job": "Raptor Racer",
+        "description": "Zooming past the competition in a high-speed foot race!",
+        "minPoints": 1100,
+        "maxPoints": 1700,
+        "emoji": "🦖🏃‍♂️"
+    },
+    {
+        "job": "Stego Security Guard",
+        "description": "Keeping the peace with those sharp, spiked tails.",
+        "minPoints": 1000,
+        "maxPoints": 1400,
+        "emoji": "🦖🛡️"
+    },
+    {
+        "job": "Herbivore Gardener",
+        "description": "Tending to the finest prehistoric ferns and foliage.",
+        "minPoints": 1100,
+        "maxPoints": 1600,
+        "emoji": "🌱🦕"
+    },
+    {
+        "job": "Triceratops Taxi Driver",
+        "description": "Carrying passengers on a sturdy three-horned ride.",
+        "minPoints": 1000,
+        "maxPoints": 1300,
+        "emoji": "🚕🦖"
+    },
+    {
+        "job": "Dino Dentist",
+        "description": "Cleaning those giant teeth, one chomp at a time.",
+        "minPoints": 1300,
+        "maxPoints": 1900,
+        "emoji": "🦷🦖"
+    },
+    {
+        "job": "Carnotaurus Chef",
+        "description": "Cooking up a storm with a spicy carnivore twist!",
+        "minPoints": 1500,
+        "maxPoints": 2000,
+        "emoji": "🦖🍖"
+    },
+    {
+        "job": "Sauropod Construction Worker",
+        "description": "Using that long neck to lift the heaviest stones.",
+        "minPoints": 1200,
+        "maxPoints": 1700,
+        "emoji": "🦕🏗️"
+    },
+    {
+        "job": "Velociraptor Librarian",
+        "description": "Organizing the fastest reads in the prehistoric library.",
+        "minPoints": 1000,
+        "maxPoints": 1100,
+        "emoji": "📚🦖"
+    },
+    {
+        "job": "Spinosaurus Lifeguard",
+        "description": "Patrolling the Jurassic beach, keeping everyone safe.",
+        "minPoints": 1200,
+        "maxPoints": 1500,
+        "emoji": "🌊🦖"
+    },
+    {
+        "job": "Dino Dancer",
+        "description": "Showing off some smooth moves at the dino disco.",
+        "minPoints": 1000,
+        "maxPoints": 1300,
+        "emoji": "💃🦖"
+    },
+    {
+        "job": "Ankylosaurus Armor Specialist",
+        "description": "Crafting the toughest armor in the dino world.",
+        "minPoints": 1100,
+        "maxPoints": 1600,
+        "emoji": "🛡️🦕"
+    },
+    {
+        "job": "Pachycephalosaurus Demolition Expert",
+        "description": "Breaking down walls with headbutts of steel!",
+        "minPoints": 1400,
+        "maxPoints": 1800,
+        "emoji": "💥🦖"
+    },
+    {
+        "job": "Diplodocus Delivery Service",
+        "description": "Delivering goods with that long, sturdy neck.",
+        "minPoints": 1300,
+        "maxPoints": 1700,
+        "emoji": "📦🦕"
+    },
+    {
+        "job": "Dino Diplomat",
+        "description": "Negotiating peace between herbivores and carnivores.",
+        "minPoints": 1000,
+        "maxPoints": 1400,
+        "emoji": "🤝🦖"
+    },
+    {
+        "job": "Pteranodon Pilot",
+        "description": "Flying high, guiding others across the prehistoric skies.",
+        "minPoints": 1500,
+        "maxPoints": 2000,
+        "emoji": "🦅✈️"
+    },
+    {
+        "job": "Giganotosaurus Groundskeeper",
+        "description": "Mowing the grass, trimming trees with a powerful bite.",
+        "minPoints": 1300,
+        "maxPoints": 1900,
+        "emoji": "🌳🦖"
+    },
+    {
+        "job": "Dino Decorator",
+        "description": "Decorating the dino dens with style and flair.",
+        "minPoints": 1100,
+        "maxPoints": 1600,
+        "emoji": "🖼️🦖"
+    },
+    {
+        "job": "Triceratops Tour Guide",
+        "description": "Guiding tourists through the best dino spots.",
+        "minPoints": 1200,
+        "maxPoints": 1700,
+        "emoji": "🚶🦖"
+    },
+    {
+        "job": "Brachiosaurus Bridge Builder",
+        "description": "Building bridges with that long neck's reach.",
+        "minPoints": 1500,
+        "maxPoints": 2000,
+        "emoji": "🌉🦕"
+    },
+    {
+        "job": "Dino Doctor",
+        "description": "Healing the injured dinos with prehistoric remedies.",
+        "minPoints": 1300,
+        "maxPoints": 1800,
+        "emoji": "🏥🦖"
+    },
+    {
+        "job": "Raptor Reporter",
+        "description": "Breaking the latest dino news!",
+        "minPoints": 1000,
+        "maxPoints": 1500,
+        "emoji": "📰🦖"
+    },
+    {
+        "job": "Stegosaurus Sculptor",
+        "description": "Carving masterpieces out of ancient stone.",
+        "minPoints": 1100,
+        "maxPoints": 1600,
+        "emoji": "🗿🦖"
+    },
+    {
+        "job": "Dino Detective",
+        "description": "Solving the mysteries of the Jurassic world.",
+        "minPoints": 1200,
+        "maxPoints": 1700,
+        "emoji": "🕵️🦖"
+    },
+    {
+        "job": "Pterosaur Photographer",
+        "description": "Capturing the best dino moments from the sky.",
+        "minPoints": 1300,
+        "maxPoints": 1800,
+        "emoji": "📸🦅"
+    },
+    {
+        "job": "Allosaurus Artist",
+        "description": "Creating beautiful dino art.",
+        "minPoints": 1100,
+        "maxPoints": 1600,
+        "emoji": "🎨🦖"
+    },
+    {
+        "job": "Dino Delivery Driver",
+        "description": "Delivering packages across the prehistoric landscape.",
+        "minPoints": 1200,
+        "maxPoints": 1700,
+        "emoji": "🚚🦖"
+    },
+    {
+        "job": "Pachycephalosaurus Professor",
+        "description": "Teaching the young dinos about ancient history.",
+        "minPoints": 1000,
+        "maxPoints": 1500,
+        "emoji": "🎓🦖"
+    },
+    {
+        "job": "Diplodocus DJ",
+        "description": "Spinning tunes for the dino dance parties.",
+        "minPoints": 1300,
+        "maxPoints": 1800,
+        "emoji": "🎧🦕"
+    },
+    {
+        "job": "Ankylosaurus Architect",
+        "description": "Designing the strongest dino dens.",
+        "minPoints": 1500,
+        "maxPoints": 2000,
+        "emoji": "🏛️🦖"
+    },
+    {
+        "job": "Raptor Racer",
+        "description": "Competing in the fastest dino races.",
+        "minPoints": 1400,
+        "maxPoints": 1900,
+        "emoji": "🏁🦖"
+    },
+    {
+        "job": "Triceratops Tailor",
+        "description": "Creating custom outfits for the stylish dinos.",
+        "minPoints": 1100,
+        "maxPoints": 1600,
+        "emoji": "👗🦖"
+    },
+    {
+        "job": "Spinosaurus Snack Vendor",
+        "description": "Selling snacks at the dino stadium.",
+        "minPoints": 1000,
+        "maxPoints": 1500,
+        "emoji": "🍿🦖"
+    },
+    {
+        "job": "Velociraptor Video Editor",
+        "description": "Editing the latest dino videos with speed and precision.",
+        "minPoints": 1200,
+        "maxPoints": 1700,
+        "emoji": "🎥🦖"
+    },
+    {
+        "job": "Stego Stage Manager",
+        "description": "Running the show behind the scenes at dino theater.",
+        "minPoints": 1300,
+        "maxPoints": 1800,
+        "emoji": "🎭🦖"
+    },
+    {
+        "job": "Dino Delivery Drone Operator",
+        "description": "Flying packages to dinos far and wide.",
+        "minPoints": 1400,
+        "maxPoints": 1900,
+        "emoji": "🚁🦖"
+    }
+]

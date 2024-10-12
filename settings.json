@@ -1,0 +1,57 @@
+{
+  "currencyEmoji": "<:ribs:1187901882761498704>",
+  "dataPath": "C:\\TCAFiles\\Users\\admin\\14\\TheIsle\\Saved\\Databases\\Survival\\Players",
+  "slots": 5,
+  "work": {
+    "minPoints": 1000,
+    "maxPoints": 2000,
+    "cooldown": 3600
+  },
+  "cooldowns": {
+    "work": 14400,
+    "dino": 1800,
+    "coinflip": 60,
+    "teleport": 1800,
+    "travel": 1800
+  },
+  "adminRoles": [
+    
+    "1071193297403527249"
+  ],
+  "dinoPrices": {
+    "allosaurus": 30000,
+    "ceratosaurus": 25000,
+    "carnotaurus": 25000,
+    "dilophosaurus": 15000,
+    "giganotosaurus": 60000,
+    "suchomimus": 30000,
+    "utahraptor": 10000,
+    "tyrannosaurus": 60000,
+    "acrocanthosaurus": 40000,
+    "spinosaurus": 100000,
+    "albertosaurus": 40000,
+    "austroraptor": 5000,
+    "baryonyx": 15000,
+    "herrerasaurus": 5000,
+    "velociraptor": 1000,
+    "diabloceratops": 30000,
+    "dryosaurus": 5000,
+    "gallimimus": 5000,
+    "maiasaura": 15000,
+    "pachycephalosaurus": 10000,
+    "parasaurolophus": 15000,
+    "triceratops": 60000,
+    "ankylosaurus": 60000,
+    "camarasaurus": 100000,
+    "therizinosaurus": 40000,
+    "shantungosaurus": 100000,
+    "stegosaurus": 30000,
+    "puertasaurus": 1000000,
+    "ava": 1000,
+    "oro": 1000,
+    "taco": 1000
+  },
+  "teleportCost": 10000,
+  "teleportCooldown": 1800,
+  "logChannelId": "1271142175698321519"
+}

@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "name": "FIGHT NIGHT",
+      "description": "FIGHT NIGHT is a tournament-style fight for all who wish to join, or even better, watch live fights while you relax. We, the Tribe, will choose the best matchups with the dinosaurs available to fight. The winners from each fight will be re-matched with another victor until one player claims the title @Fight Night Alpha.",
+      "rewards": [
+        "🥇 1st Place: 100K <:ribs:1187901882761498704>",
+        "🥈 2nd Place: 50K <:ribs:1187901882761498704>",
+        "🥉 3rd Place: 25K <:ribs:1187901882761498704>",
+        "🏅 4th-10th Place: 10K <:ribs:1187901882761498704> each"
+      ],
+      "title": "Fight Night Alpha"
+    },
+    {
+      "name": "Sharks & Minnows",
+      "description": "In Sharks & Minnows, players start as Utahs and must run from one end of the Gulf Beach to the other without getting caught by the Carnos, who act as Sharks. Each Utah that is killed becomes a Carno, adding to the feeding frenzy!",
+      "rewards": [
+        "The last 10 Utahs alive each win 50K <:ribs:1187901882761498704> and the title @Mighty Minnow!"
+      ],
+      "title": "Mighty Minnow"
+    },
+    {
+      "name": "LEGION",
+      "description": "LEGION is a survival event where players choose a dino and try to survive a night against relentless Dilos. When you die, you respawn as a Dilo to hunt the remaining survivors. Do NOT attack other Dilos!",
+      "rewards": [
+        "Winners receive 50K <:ribs:1187901882761498704> and the title @Legion Legend!"
+      ],
+      "title": "Legion Legend"
+    },
+    {
+      "name": "Baby Battles",
+      "description": "Baby Battles is a Fight Night event exclusively for juvies! Fight as a mighty juvie and claim the title @Baby Brawler!",
+      "rewards": [
+        "🥇 1st Place: 100K <:ribs:1187901882761498704>",
+        "🥈 2nd Place: 50K <:ribs:1187901882761498704>",
+        "🥉 3rd Place: 25K <:ribs:1187901882761498704>",
+        "🏅 4th-10th Place: 10K <:ribs:1187901882761498704> each"
+      ],
+      "title": "Baby Brawler"
+    },
+    {
+      "name": "Galli Tag",
+      "description": "Galli Tag is a game where 3 Gold Gallis run around Great Falls. Players try to catch and kill them to claim the prize! [Do NOT pretend to be one of the chosen Gallis! This may result in your Galli being TPd to the farthest reaches of the map!]",
+      "rewards": [
+        "Each Galli is worth 30K <:ribs:1187901882761498704> and the title @Galli Killer"
+      ],
+      "title": "Galli Killer"
+    },
+    {
+      "name": "Back Out or Brawl",
+      "description": "Back Out or Brawl is a brutal event where one player challenges another in a 1v1 fight. The challenged player must either accept the fight or back out in front of everyone.",
+      "rewards": [
+        "🥇 1st Place: 100K <:ribs:1187901882761498704>",
+        "🥈 2nd Place: 50K <:ribs:1187901882761498704>",
+        "🥉 3rd Place: 25K <:ribs:1187901882761498704>"
+      ],
+      "title": "Beastly Brawler"
+    }
+  ]
+}

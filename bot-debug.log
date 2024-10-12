@@ -1,0 +1,19 @@
+2024-08-09T03:27:03.210Z [DEBUG] - User mr.deception (306872598057189378) is claiming dinosaurs
+2024-08-09T03:27:03.211Z [DEBUG] - User data loaded for mr.deception
+2024-08-09T03:27:36.886Z [DEBUG] - User mr.deception (306872598057189378) is claiming dinosaurs
+2024-08-09T03:27:36.887Z [DEBUG] - User data loaded for mr.deception
+2024-08-09T03:27:36.887Z [DEBUG] - Claiming Dino step 1 for user mr.deception
+2024-08-09T03:27:38.908Z [DEBUG] - Selected gender for Dino 1: male
+2024-08-09T03:27:38.909Z [DEBUG] - Selecting Dino type for step 1
+2024-08-09T03:27:41.501Z [DEBUG] - Selected dino for Dino 1: dryosaurus
+2024-08-09T03:27:41.501Z [DEBUG] - Claiming Dino step 2 for user mr.deception
+2024-08-09T03:27:43.794Z [DEBUG] - Selected gender for Dino 2: female
+2024-08-09T03:27:43.794Z [DEBUG] - Selecting Dino type for step 2
+2024-08-09T03:27:46.510Z [DEBUG] - Selected dino for Dino 2: gallimimus
+2024-08-09T03:27:46.510Z [DEBUG] - Claiming Dino step 3 for user mr.deception
+2024-08-09T03:28:46.710Z [DEBUG] - No selection made for Dino 3
+2024-08-17T02:37:37.352Z [DEBUG] - Rules loaded successfully.
+2024-08-17T02:37:44.183Z [DEBUG] - Rules command executed.
+2024-08-17T02:37:44.183Z [DEBUG] - Categories found: General Rules, Herbivore Rules, Combat Rules, Water Rules, Nesting Rules
+2024-08-17T02:37:44.183Z [DEBUG] - No category provided, sending select menu.
+2024-08-17T02:37:44.341Z [DEBUG] - Category select menu sent.

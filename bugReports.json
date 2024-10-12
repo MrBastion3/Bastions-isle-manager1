@@ -1,0 +1,86 @@
+[
+  {
+    "user": "mr.deception",
+    "userId": "306872598057189378",
+    "report": "test",
+    "category": "command_error",
+    "timestamp": "2024-08-16T01:26:44.051Z"
+  },
+  {
+    "user": "tiennla",
+    "userId": "170369606580568064",
+    "report": "When bringing in some dinos, it'll show as there but then you'll have the character select screen when logging on the server. Currently tried to bring my austro in, says it's my austro, poor austro is dead.",
+    "category": "other",
+    "timestamp": "2024-08-17T18:22:41.833Z"
+  },
+  {
+    "user": "brikdos",
+    "userId": "125404563200147456",
+    "report": "Can't mention someone who isn't an admin in the admin bot commands. ot sure if this is fixable",
+    "category": "other",
+    "timestamp": "2024-08-17T19:57:10.437Z"
+  },
+  {
+    "user": "griimferociouz",
+    "userId": "352578324637155328",
+    "report": "Cant inject a NSN dino as admin created without being \"hacker\" notified",
+    "category": "command_error",
+    "timestamp": "2024-08-17T20:02:14.702Z"
+  },
+  {
+    "user": "tiennla",
+    "userId": "170369606580568064",
+    "report": "Unable to inject dinos with !dino #, it just acts like !dino",
+    "category": "command_error",
+    "timestamp": "2024-08-18T01:45:25.781Z"
+  },
+  {
+    "user": "tiennla",
+    "userId": "170369606580568064",
+    "report": "Unable to do !createdino in tickets",
+    "category": "command_error",
+    "timestamp": "2024-08-31T04:52:51.650Z"
+  },
+  {
+    "user": "ladydragoneyz",
+    "userId": "323241715672547338",
+    "report": "Warriors should be able to -unlink- \n\n&\n\nSteam IDs should be locked to one per account",
+    "category": "other",
+    "timestamp": "2024-09-13T00:39:58.961Z"
+  },
+  {
+    "user": "tiennla",
+    "userId": "170369606580568064",
+    "report": "Lan tried to inject an austro after buying, it killed the austro.",
+    "category": "other",
+    "timestamp": "2024-09-20T23:30:22.805Z"
+  },
+  {
+    "user": "griimferociouz",
+    "userId": "352578324637155328",
+    "report": "Trading dinos is being weird. For some reason its telling them their steam64 ID needs to be linked and I have checked both parties are linked in the bot. I can trade with Dragon no problem. I need an adult!XD",
+    "category": "command_error",
+    "timestamp": "2024-09-22T22:36:44.417Z"
+  },
+  {
+    "user": "griimferociouz",
+    "userId": "352578324637155328",
+    "report": "Players linking their Steam64 ID are not being credited the ribs",
+    "category": "command_error",
+    "timestamp": "2024-09-22T23:46:24.830Z"
+  },
+  {
+    "user": "sybzombie",
+    "userId": "288447335468367872",
+    "report": "Bot doing too much 😄",
+    "category": "command_error",
+    "timestamp": "2024-09-23T20:44:09.980Z"
+  },
+  {
+    "user": "tiennla",
+    "userId": "170369606580568064",
+    "report": "Walruss bought a Theri, swapped to it and it turned the Theri into a pachy",
+    "category": "performance",
+    "timestamp": "2024-09-24T00:49:23.006Z"
+  }
+]

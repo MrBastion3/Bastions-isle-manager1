@@ -1,0 +1,402 @@
+{
+  "quests": [
+    {
+      "id": 1,
+      "name": "The First Egg",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Introduce yourself in the general chat.",
+          "task": "send_message",
+          "message_count": 1,
+          "reward": {
+            "type": "egg",
+            "description": "Your very first egg!"
+          }
+        },
+        {
+          "stage": 2,
+          "description": "Help your egg hatch by chatting in the general channel.",
+          "task": "gain_xp",
+          "xp_required": 50,
+          "reward": {
+            "type": "xp",
+            "amount": 100,
+            "description": "XP to help your dino grow."
+          }
+        },
+        {
+          "stage": 3,
+          "description": "Hatch your egg into a dino.",
+          "task": "hatch_egg",
+          "reward": {
+            "type": "item",
+            "item": "Incubator",
+            "description": "An incubator to help future eggs hatch faster."
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Growing Stronger",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Level up your dino to level 2.",
+          "task": "level_up_dino",
+          "level_required": 2,
+          "reward": {
+            "type": "xp",
+            "amount": 200,
+            "description": "XP to help your dino grow stronger."
+          }
+        },
+        {
+          "stage": 2,
+          "description": "Win a battle against another player.",
+          "task": "win_battle",
+          "reward": {
+            "type": "item",
+            "item": "Battle Potion",
+            "description": "A potion to boost your dino's stats."
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Master Trainer",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Train your dino to level 5.",
+          "task": "level_up_dino",
+          "level_required": 5,
+          "reward": {
+            "type": "item",
+            "item": "Training Manual",
+            "description": "A manual that helps your dino learn new abilities."
+          }
+        },
+        {
+          "stage": 2,
+          "description": "Participate in 3 battles.",
+          "task": "participate_battle",
+          "battle_count": 3,
+          "reward": {
+            "type": "xp",
+            "amount": 300,
+            "description": "Extra XP to reward your hard work."
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Egg Collector",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Obtain 3 eggs.",
+          "task": "collect_eggs",
+          "egg_count": 3,
+          "reward": {
+            "type": "item",
+            "item": "Rare Egg",
+            "description": "A rare egg with a chance to hatch a special dino."
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Evolutionary Mastery",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Evolve your dino to the Juvenile stage.",
+          "task": "evolve_dino",
+          "growth_stage_required": "Juvenile",
+          "reward": {
+            "type": "xp",
+            "amount": 500,
+            "description": "XP to prepare your dino for the next evolution."
+          }
+        },
+        {
+          "stage": 2,
+          "description": "Evolve your dino to the Adult stage.",
+          "task": "evolve_dino",
+          "growth_stage_required": "Adult",
+          "reward": {
+            "type": "item",
+            "item": "Evolution Stone",
+            "description": "A special stone that boosts the stats of evolved dinos."
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Legendary Hunter",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Hatch a Rare or higher rarity dino.",
+          "task": "hatch_rare_dino",
+          "rarity_required": "Rare",
+          "reward": {
+            "type": "item",
+            "item": "Legendary Bait",
+            "description": "Bait to attract Legendary dinos."
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Champion of Battles",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Win 5 battles with your dinos.",
+          "task": "win_battle",
+          "battle_count": 5,
+          "reward": {
+            "type": "item",
+            "item": "Champion's Badge",
+            "description": "A badge to show off your battle prowess."
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Exploration Adventure",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Send your dino on an exploration mission.",
+          "task": "explore",
+          "reward": {
+            "type": "xp",
+            "amount": 150,
+            "description": "XP gained from the exploration."
+          }
+        },
+        {
+          "stage": 2,
+          "description": "Complete 3 exploration missions.",
+          "task": "complete_exploration",
+          "exploration_count": 3,
+          "reward": {
+            "type": "item",
+            "item": "Explorer's Pack",
+            "description": "A pack containing useful items for further exploration."
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Ultimate Trainer",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Train a dino to level 10.",
+          "task": "level_up_dino",
+          "level_required": 10,
+          "reward": {
+            "type": "item",
+            "item": "Training Whistle",
+            "description": "A whistle that helps focus your dino during training."
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hatchery Master",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Hatch 5 eggs.",
+          "task": "hatch_egg",
+          "egg_count": 5,
+          "reward": {
+            "type": "item",
+            "item": "Hatchery Upgrade",
+            "description": "Upgrade your hatchery to speed up the hatching process."
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Battle Master",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Win 10 battles with your dinos.",
+          "task": "win_battle",
+          "battle_count": 10,
+          "reward": {
+            "type": "item",
+            "item": "Battle Mastery Scroll",
+            "description": "A scroll that enhances your dino's battle abilities."
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "The Egg Guardian",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Protect an egg through to hatching.",
+          "task": "protect_egg",
+          "reward": {
+            "type": "item",
+            "item": "Guardian Shield",
+            "description": "A shield that protects your eggs from harm."
+          }
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Growth Spurt",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Increase your dino's level by 3 in a single session.",
+          "task": "gain_levels",
+          "level_count": 3,
+          "reward": {
+            "type": "xp",
+            "amount": 250,
+            "description": "XP to support your dino's rapid growth."
+          }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Explorer's Guild",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Complete an exploration in each available area.",
+          "task": "explore_areas",
+          "areas_count": 5,
+          "reward": {
+            "type": "item",
+            "item": "Explorer's Compass",
+            "description": "A compass to help you find rare exploration spots."
+          }
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ultimate Evolution",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Evolve a dino to its final form.",
+          "task": "evolve_final_stage",
+          "reward": {
+            "type": "item",
+            "item": "Final Evolution Stone",
+            "description": "A powerful stone that unlocks your dino's ultimate potential."
+          }
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Egg Hoarder",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Collect 10 eggs.",
+          "task": "collect_eggs",
+          "egg_count": 10,
+          "reward": {
+            "type": "item",
+            "item": "Egg Carton",
+            "description": "A special container to store and protect your eggs."
+          }
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Battle Royale",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Win a battle against 5 different players.",
+          "task": "win_multiple_battles",
+          "battle_count": 5,
+          "reward": {
+            "type": "item",
+            "item": "Royal Crown",
+            "description": "A crown signifying your dominance in battle."
+          }
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "The Hatching Ceremony",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Participate in a server-wide hatching event.",
+          "task": "participate_event",
+          "reward": {
+            "type": "item",
+            "item": "Ceremonial Torch",
+            "description": "A torch used in ancient hatching ceremonies."
+          }
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Legendary Tamer",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Tame a Legendary dino.",
+          "task": "tame_legendary_dino",
+          "reward": {
+            "type": "item",
+            "item": "Tamer's Whip",
+            "description": "A whip that helps tame the wildest of dinos."
+          }
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "The Great Hatchery",
+      "stages": [
+        {
+          "stage": 1,
+          "description": "Hatch 20 eggs.",
+          "task": "hatch_egg",
+          "egg_count": 20,
+          "reward": {
+            "type": "item",
+            "item": "Great Hatchery Blueprint",
+            "description": "Blueprints for building a grand hatchery."
+          }
+        }
+      ]
+    }
+  ]
+}
